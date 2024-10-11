@@ -1,0 +1,3 @@
+name: PhuNuVietNam
+version: '${project.version}'
+main: vn.sunext.phunuvietnam.PhuNuVietNam
